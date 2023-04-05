@@ -2,7 +2,7 @@
 Genetic Algorithtm to formulate Petroleum Asphalt Cement
 
 Use example: call the main function generate(..)
-
+```
 generate(
   50, //Initial population
   /*
@@ -34,3 +34,4 @@ generate(
   0.05, // Mutation Rate
   100
 );
+```
